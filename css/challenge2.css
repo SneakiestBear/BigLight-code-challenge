@@ -1,0 +1,29 @@
+.opti_discount-banner {
+  background-color: #000;
+  color: #fff;
+  padding: 20px 32px;
+  text-align: center;
+  margin: 0 4px 8px;
+}
+
+.opti_discount-banner h2 {
+  font-size: 22px;
+}
+
+.opti_discount-banner h4 {
+  margin-top: 8px;
+  font-size: 14px;
+}
+
+.opti_discount-banner h4 .opti_discount-code {
+  color: #E59729;
+  margin-left: 4px;
+  text-decoration: underline;
+}
+
+.opti_discount-banner h5 {
+  margin-top: 4px;
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 100;
+}

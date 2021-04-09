@@ -1,0 +1,55 @@
+#opti_trigger {
+  border-color: #D5D9D9;
+  border-radius: .8rem;
+  color: #0F1111;
+  background: #F0F2F2;
+  display: inline-block;
+  margin-bottom: 24px;
+}
+
+#opti_trigger .a-button-inner {
+  border-radius: .7rem;
+  background: #F0F2F2;
+  box-shadow: 0 0.2rem 0.5rem #0f11112e;
+}
+
+#opti_button-clone {
+  margin-left: 16px;
+  margin-bottom: 0 !important;
+  flex-grow: 1;
+}
+
+#opti_button-clone .button-stack-buttons-spacing {
+  margin-bottom: 0 !important;
+}
+
+.opti_mobile-sticky {
+  padding: 16px 48px;
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #26303E;
+  transition: bottom 300ms;
+  z-index: 21;
+}
+
+.opti_mobile-sticky #mobileQuantity_feature_div {
+  height: 40px;
+}
+
+.opti_mobile-sticky .a-dropdown-label {
+  display: none;
+}
+
+.opti_mobile-sticky .a-button-small .a-button-text {
+  line-height: 30px;
+}
+
+.opti_mobile-sticky .a-button:not(.a-button-toggle) {
+  box-shadow: none;
+}
+
+.opti_mobile-sticky .button-stack-quantityButtonSpacing {
+  margin-bottom: 0 !important;
+}
