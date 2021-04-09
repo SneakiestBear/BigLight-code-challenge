@@ -1,9 +1,11 @@
 # BigLight-code-challenge
 Code challenges for Biglight
 
-Run the node server on port 7000: **node index.js**
+**npm install**
 
-Run the sass compiler: **npm run sass**
+To run the node server on port 7000: **node index.js**
+
+To run the sass compiler: **npm run sass**
 
 
 **Structure:**
